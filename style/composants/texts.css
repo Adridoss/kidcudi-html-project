@@ -1,0 +1,58 @@
+
+
+
+.toindex2 {
+    display: flex;
+    justify-content: flex-end;
+    color: #406eff;
+    text-decoration: none;
+    font-family: fantasy;
+    margin-right: 50px;
+}
+
+.titlestyle {
+    display: flex;
+    justify-content: space-around;
+}
+
+.textstyle {
+    justify-content: center;
+}
+
+.textmom2 {
+    display: flex;
+    justify-content: space-around;
+    font-family: monospace
+}
+
+
+.colorhide {
+    text-decoration: none;
+    color: black;
+}
+
+
+.tracktextbonus {
+    font-family: fantasy;
+    display: flex;
+    text-align: end;
+}
+
+
+
+.textbonus {
+    font-family: monospace;
+    display: flex;
+    text-align: center;
+}
+
+
+.jabaritext {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.fontsizeperso {
+    font-size: 12px;
+}

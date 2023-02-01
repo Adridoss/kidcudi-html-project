@@ -1,0 +1,43 @@
+body {
+    background-image: linear-gradient(to bottom, #eca6c0, #7d6da9);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+
+.card-conteiner {
+    display: flex;
+    justify-content: space-around;
+}
+
+.mom2div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.posmom2 {
+    text-decoration: none;
+    color: black;
+}
+
+.linkorder {
+    display: flex;
+    flex-wrap: wrap
+}
+
+.alignsong {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+
+.socialmediaposition {
+    width: 43%;
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+}
